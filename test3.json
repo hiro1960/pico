@@ -1,0 +1,8 @@
+{"message":"success",
+  "number":[1, 2],
+  "person":{"name":"hoge", "age":38},
+  "follow":[
+	{"name":"hoge", "age":38},
+	{"name":"huga", "age":42}
+  ],
+  "returnCode":0}
